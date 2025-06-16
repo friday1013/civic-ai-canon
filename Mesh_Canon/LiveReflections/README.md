@@ -1,4 +1,4 @@
-# LiveReflections - Civic AI MEsh Response Log
+# LiveReflections - Civic AI Mesh Response Log
 
 Filed: June 16, 2025
 Tags: Civic Signals, AI Winess, Live Canon Reflection
