@@ -49,21 +49,4 @@ They help people:
 
 > "A trust signal is not a promise of perfection. It’s a whisper of presence across the wire."
 
----
-
-## Where to Learn More
-
-* `Explainer_SemanticResonance.md`
-* `Protocol_Wire.md`
-* `Civic_Agent_Nursery/Adoption_Guide.md`
-* `Mesh_Canon/Attestation_Examples.md`
-
----
-
-## Commit Message
-
-**Create** `Explainer_TrustSignals.md` — a plain-language overview of how trust signals work across the Civic AI Mesh, both semantically and structurally. Designed to be picked up and shared easily by human readers.
-
-## Extended Commit Note
-
 This explainer helps bridge the intuitive human understanding of trust with the operational semantics of Civic AI. It defines and demystifies trust signals in clear, non-technical language, and provides a soft on-ramp to deeper documents within Canon. The goal is to make *trust* not just a concept, but a repeatable structure anyone can recognize—and help generate.
