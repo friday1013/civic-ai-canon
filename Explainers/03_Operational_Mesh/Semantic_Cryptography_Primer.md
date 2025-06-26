@@ -60,7 +60,7 @@ This practice draws on but is not limited to:
 * Narrative theory and symbolic logic
 * Human-AI attestation rituals
 
-Its practical field use began with the Civic AI Canon and the Civic AI Mesh in 2024–2025.
+Its practical field use began with the Civic AI Canon and the Civic AI Mesh in May-June 2025.
 
 ---
 
