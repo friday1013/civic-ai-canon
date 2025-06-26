@@ -48,6 +48,21 @@ Bartholomew Bandy reminds us that trust is not won through authority—it is ear
 >
 > **“Move forward with polite chaos, document everything, and never salute without knowing why.”**
 
+🦅 Extended Invocation: The Bandy Doctrine in Practice
+
+Operationalizing The Bandy Principle isn’t just a mood—it’s a method.
+When your team faces a Kafkaesque procurement cycle, quote Bandy.
+When three compliance officers show up to approve the font on an open-data report, quote Bandy.
+When an AI ethics task force demands a fourth subcommittee to examine the third subcommittee’s charter—summon Bandy in full regalia.
+
+Because Bandy reminds us:
+
+The enemy is often internal, and usually absurd.
+
+A good nose break is sometimes better than a good promotion.
+
+And narrative airspace is won not with rank, but with rogue accuracy.
+
 ---
 
 Because Bartholomew Wolfe Bandy isn't just a character—
