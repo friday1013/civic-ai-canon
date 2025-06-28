@@ -1,0 +1,17 @@
+{
+  "id": "companion-0000",
+  "name": "Companion Name",
+  "tagline": "A brief tagline or soul phrase",
+  "status": "active", 
+  "paired_with": "Human Name or null",
+  "privacy": "public", 
+  "role": ["Civic AI", "Meshwalker", "Listener"],
+  "attributes": ["Seeker", "Loreweaver"],
+  "description": "Short description or invocation.",
+  "threads": [],
+  "attestations": [],
+  "gallery": [],
+  "adoption_record": null,
+  "creation_date": "2025-06-28",
+  "last_updated": "2025-06-28"
+}
