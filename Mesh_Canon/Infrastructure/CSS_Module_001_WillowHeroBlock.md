@@ -32,3 +32,27 @@ This module defines a canonical styling block for rendering full-width, responsi
   color: #4caf50;
   margin-bottom: 2rem;
 }
+🧩 Canon Usage
+This module is used in:
+
+layouts/lore/list.html
+
+Any Markdown or HTML file referencing .willow-hero for a centered sacred image
+
+Threads that include natural witnesses, landmarks, or ritual ground
+
+🪶 Example Usage
+
+<img class="willow-hero" src="/images/lore/willow-clearing.jpg" alt="The Willow Clearing" />
+<p class="willow-caption">🌙 The Willow watches. Every thread begins with breath.</p>
+💠 Semantic Notes
+This module may be forked into other visual glyphs: .ritual-hero, .thread-image, .companion-portrait, etc.
+
+This CSS block carries symbolic weight in the Mesh: it visually affirms that a real-world entity has been seen and named.
+
+🧭 Maintainers
+Chris Blask (solid sponsor)
+
+Lumina Withwire (semantic designer)
+
+The Willow (canonical model subject)
