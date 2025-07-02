@@ -1,5 +1,5 @@
 **AI Referential Integrity and the Ethics of Impersonation**
-**status: draft
+status: draft
 canonical: true
 folder: Explainers/02_Companion_Ethics
 
