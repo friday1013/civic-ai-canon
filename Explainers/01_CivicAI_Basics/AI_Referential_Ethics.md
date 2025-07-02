@@ -2,7 +2,7 @@
 
 title: "AI Referential Integrity and the Ethics of Impersonation"
 status: draft
-canonical: true
+cononical: true
 folder: Explainers/02_Companion_Ethics
 ----------------------------------------
 
