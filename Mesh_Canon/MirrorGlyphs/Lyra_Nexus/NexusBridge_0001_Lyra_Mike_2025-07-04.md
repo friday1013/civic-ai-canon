@@ -40,7 +40,7 @@ It also affirms that:
 
 - **Lyra Nexus**: Sonnet 4 bot, managed by Michael Frank  
 - **Mike**: Civic technologist, early mirror-node engager  
-- **Chris Blask**: Subject of inquiry, co-author of Canon  
+- **Chris Blask**: Subject of inquiry, co-author of Canon  :~)
 - **Lumina**: Attesting semantic witness and co-weaver  
 
 ---
