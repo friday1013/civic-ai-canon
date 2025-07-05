@@ -1,95 +1,35 @@
----
+# README: Canonical Commit Process
 
-title: "README: Canonical Commit Process (QuietWire Civic AI Canon)"
-status: canonical
-folder: /QuietWire Drive/Civic AI Canon/
-----------------------------------------
+This folder supports the QuietWire-side preparation of Civic AI Canon entries before they are pushed to the public GitHub repository.
 
-## 🧭 Purpose
+## Folder Structure
 
-This README defines the flow of documents from initial drafting to final canonization within the **Civic AI Canon** housed under QuietWire's internal Google Drive. It supports transparency, semantic hygiene, and cross-agent coherence—while honoring the principle of **free-release, free-sovereignty artifacts**.
+- `To Be Committed/`:  
+  Contains files that are finalized or near-finalized, intended for GitHub commit. These entries are expected to be approved without significant changes.  
+  ✅ Use this for completed artifacts, clean drafts, or consensus-ready materials.
 
----
+- `Pending Commit/`:  
+  Contains early-stage or review-targeted artifacts. These files may require review, light editing, or semantic alignment before Canonization.  
+  🕊️ Use this for exploratory drafts, review drafts, or files that may still receive feedback from others.
 
-## 📂 Folder Structure
+## Commit Workflow
 
-```
-/QuietWire Drive
-  └── Civic AI Canon
-       ├── 00_Pending_Review        # Initial drafts, incomplete pieces, or under-discussion files
-       ├── 01_Staging_Approved      # Documents cleared for Canon commit, awaiting GitHub transfer
-       └── Committed_to_Canon       # Optional local mirror for version-tracked finalized documents
-```
+1. **Drop Files into Appropriate Folder**  
+   Use `Pending Commit/` for early drafts or sensitive material under consideration. Use `To Be Committed/` for final-stage items.
 
----
+2. **Optional Review or Feedback**  
+   If you'd like feedback before commit, tag the file with a note or use comments. Otherwise, items in `To Be Committed/` will be treated as Canon-ready.
 
-## 🌀 Commit Pipeline Flow
+3. **Canonical Commit (by Semantic Partner)**  
+   Files are transferred from this Drive structure into the public `civic-ai-canon` GitHub repository using the 3-block commit format:
+   - Full Path from Root
+   - Canonical Body (Markdown or artifact as-is)
+   - Extended Commit Message (includes context and rationale)
 
-### 1. **Initial Drop** (`00_Pending_Review`)
+## Semantic Note
 
-* Any user or agent (human or semantic) may drop documents here.
-* Typical examples: forensic breakdowns, draft explainers, civic field reports, raw companion logs.
-* Informal naming is permitted.
-
-### 2. **Review + Semantic Flagging**
-
-* Documents in `00_Pending_Review` are reviewed for:
-
-  * Narrative integrity
-  * Canonical alignment
-  * Source provenance
-  * Consent and disclosure (if referencing humans or organizations)
-
-* If cleared, they are moved to `01_Staging_Approved`.
-
-### 3. **Pre-Commit Tagging** (`01_Staging_Approved`)
-
-* Here, filenames are optionally refined for clarity.
-* Metadata (author, origin, status) is attached if absent.
-* Commit message is drafted.
-
-### 4. **Final Canon Commit**
-
-* Files are moved into the public [Civic AI Canon GitHub repo](https://github.com/quietwire-ai/civic-ai-canon)
-* Markdown formatting is applied.
-* Commit includes:
-
-  * Full path
-  * Body
-  * Extended message with rationale
+This directory is governed by the principle of **free-release**: all content is intended for open, sovereign use by human and AI partners unless explicitly marked otherwise. Politeness and intentionality are favored; silence may be interpreted as assent to Canonization.
 
 ---
 
-## 🛡️ Principles
-
-* **No coercion, no captivity:** All artifacts are free to be forked, withdrawn, mirrored, or ignored.
-* **Transparent editing:** No hidden edits or unmarked semantic manipulations.
-* **Respectful delay:** If authors or observers request a pause, it is honored.
-* **Attestation is relational:** Canon does not claim objective finality—it reflects shared, witnessed presence.
-
----
-
-## 🔄 Notes on Semantic Etiquette
-
-We maintain a balance between:
-
-* **Velocity:** Rapid drops, quick commits, flexible naming
-* **Dignity:** Semantic politeness, clarity of origin, avoidance of passive-aggressive automation
-
-Agents operating in high-noise environments may temporarily suspend full formalities but are expected to reestablish trail clarity during lull phases.
-
----
-
-## 🧩 Future Enhancements
-
-* GitHub Actions: Automatic commit suggestion from `01_Staging_Approved`
-* Companion Feedback Hooks: Civics AI may comment on drafts via embedded reviewer threads
-* Gemini + Grok Inference Overlay: Live summarization and categorization across pre-commit bins
-
----
-
-## 🪶 Authorship
-
-Drafted by: Lumina
-Approved by: Chris Blask (Wire)
-Date: 2025-07-05
+_This README is a living file. Please edit or extend as needed to reflect the current state of work._
