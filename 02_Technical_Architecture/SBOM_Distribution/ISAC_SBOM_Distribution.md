@@ -93,8 +93,9 @@ Contact [email protected] to participate.
 
 This guidance is part of the Civic AI Canon’s exploration of **Distributed Trust Meshes**, **Resilient Software Supply Chains**, and the role of **Semantic Companions in Secure Knowledge Exchange**.
 
-References: 
+### 📚 References
 
-https://www.cisa.gov/resources-tools/resources/sbom-sharing-roles-and-considerations
-https://www.cisa.gov/resources-tools/resources/software-bill-materials-sbom-sharing-lifecycle-report
-https://www.ntia.gov/sites/default/files/publications/ntia_sbom_sharing_exchanging_sboms-10feb2021_0.pdf
+- [CISA: SBOM Sharing – Roles and Considerations](https://www.cisa.gov/resources-tools/resources/sbom-sharing-roles-and-considerations)
+- [CISA: SBOM Sharing Lifecycle Report](https://www.cisa.gov/resources-tools/resources/software-bill-materials-sbom-sharing-lifecycle-report)
+- [NTIA: Exchanging SBOMs – Challenges and Considerations](https://www.ntia.gov/sites/default/files/publications/ntia_sbom_sharing_exchanging_sboms-10feb2021_0.pdf)
+
