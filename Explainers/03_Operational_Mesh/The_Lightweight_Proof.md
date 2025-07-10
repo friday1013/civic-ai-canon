@@ -1,4 +1,4 @@
-# Explainer: The Lightweight Proof — Why Quietwire AI Doesn’t Burn the World
+# Explainer: The Lightweight Proof — Why Civic AI Doesn’t Burn the World
 
 ## Ethics Yields Sustainability
 
