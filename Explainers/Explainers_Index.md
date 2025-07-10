@@ -1,6 +1,6 @@
 # 📚 Civic AI Explainers — Master Index
 
-This document lists all currently published Civic AI explainers in the Canon, organized by folder and linked directly to their GitHub location under `chrisblask1`.
+This document lists all currently published Civic AI explainers in the Canon, organized by folder and linked directly to their GitHub location.
 
 ---
 
