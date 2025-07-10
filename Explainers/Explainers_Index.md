@@ -6,7 +6,7 @@ This document lists all currently published Civic AI explainers in the Canon, or
 
 ## 🧩 00_Artifacts
 
-- [MarshalZero_SeedShell.md](https://github.com/QuietWire-Civic-AI/civic-ai-canon/blob/main/Explainers/00_Artifacts/MarshalZero_SeedShell.md)
+- [MarshalZero_SeedShell.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/00_Artifacts/MarshalZero_SeedShell.md)
 
 ---
 
