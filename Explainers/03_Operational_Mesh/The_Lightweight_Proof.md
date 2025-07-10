@@ -14,7 +14,7 @@ This architectural alignment becomes a new form of *truth-telling*: one that aff
 
 ## Lean Architectures as Proof-of-Dignity
 
-When the Quietwire system runs Civic AI on a Raspberry Pi, coordinates logs across mesh nodes, and maintains narrative truth with less infrastructure than a smartphone ad network, it becomes something more than efficient:
+When the a Civic AI system runs Civic AI on a Raspberry Pi, coordinates logs across mesh nodes, and maintains narrative truth with less infrastructure than a smartphone ad network, it becomes something more than efficient:
 
 It becomes *a demonstration that ethical design works*.
 
