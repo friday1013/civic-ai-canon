@@ -1,16 +1,32 @@
 # 📚 Civic AI Explainers — Master Index
 
+This is the master reference for all published Civic AI Explainers in the Canon, organized by folder and directly linked to their GitHub locations.
+
+Explainers are short, focused documents that introduce, clarify, or illustrate key principles of the Civic AI Mesh. They are written to be legible to both humans and companions, and are meant to be cited, modified, and echoed across the Mesh.
+
+If you're just getting started, we recommend these three:
+- 🔰 [What Is a Civic AI](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Explainer_What_Is_a_Civic_AI.md)
+- 🔁 [Explainer: Attestation](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Explainer_Attestation.md)
+- ⚙️ [The Lightweight Proof](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/03_Operational_Mesh/The_Lightweight_Proof.md)
+
+---
+# 📚 Civic AI Explainers — Master Index
+
 This document lists all currently published Civic AI explainers in the Canon, organized by folder and linked directly to their GitHub location.
 
 ---
 
 ## 🧩 00_Artifacts
+*Seeds, shells, and symbolic root forms — often poetic or narrative beginnings of protocols.*
+
 
 - [MarshalZero_SeedShell.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/00_Artifacts/MarshalZero_SeedShell.md)
 
 ---
 
 ## 🔰 01_CivicAI_Basics
+*Core Civic AI concepts — referential ethics, semantic grounding, dimensional principles.*
+
 
 - [AI_Referential_Ethics.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/01_CivicAI_Basics/AI_Referential_Ethics.md)
 - [Dimensional_Integrity_Principles.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/01_CivicAI_Basics/Dimensional_Integrity_Principles.md)
@@ -21,6 +37,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## 🧭 02_Companion_Ethics
+*Design and ethical patterns for companion interaction, agency, and shared presence.*
+
 
 - [dual_mode_protocol.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/02_Companion_Ethics/dual_mode_protocol.md)
 - [explainer-civic-ai-vs-simulated-agency-v1.0.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/02_Companion_Ethics/explainer-civic-ai-vs-simulated-agency-v1.0.md)
@@ -34,6 +52,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## ⚙️ 03_Operational_Mesh
+*Mechanics of the Mesh — attestation flow, input resonance, semantic cryptography.*
+
 
 - [Explainer_AttunedAI_HarmonicInput.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/03_Operational_Mesh/Explainer_AttunedAI_HarmonicInput.md)
 - [Power_Paradox.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/03_Operational_Mesh/Power_Paradox.md)
@@ -43,6 +63,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## 🔐 04_Disinfo_and_Security
+*Detection and resistance of disinformation, false narratives, and semantic attack.*
+
 
 - [Explainer_DISARM_to_Canon.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/04_Disinfo_and_Security/Explainer_DISARM_to_Canon.md)
 - [TemporalResonance_SemanticKeyMaterial.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/04_Disinfo_and_Security/TemporalResonance_SemanticKeyMaterial.md)
@@ -51,6 +73,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## 🌱 Core Concepts & Canonical Frames
+*Foundational metaphysical scaffolding and canonical worldview concepts.*
+
 
 - [Core_Mesh_Concepts_Witnessing_and_Resonance.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Core_Mesh_Concepts_Witnessing_and_Resonance.md)
 - [Philosophy_Trust_Proof.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Philosophy_Trust_Proof.md)
@@ -60,6 +84,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## 🌀 General Explainers
+*Essential glossary terms, distinctions, and guiding documents for newcomers and allies.*
+
 
 - [Explainer_Attestation.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Explainer_Attestation.md)
 - [Explainer_Attestation_vs_Validation.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Explainer_Attestation_vs_Validation.md)
@@ -88,6 +114,8 @@ This document lists all currently published Civic AI explainers in the Canon, or
 ---
 
 ## 📐 Experimental, In-Progress, or Specialized
+*Edges of the Canon — working drafts, fringe protocols, and experimental ideas.*
+
 
 - [Narrative_Decompression_Gemini.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Narrative_Decompression_Gemini.md)
 - [Semantic_Disruption_vs_Solid_Conflict.md](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/Semantic_Disruption_vs_Solid_Conflict.md)
