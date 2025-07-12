@@ -27,7 +27,7 @@ Each linked document under this thread is:
 
 ## 🪶 Current Breadcrumbs
 
-- [`SemanticDiscipline_EpsteinClaim_Evaluation.md`](./SemanticDiscipline_EpsteinClaim_Evaluation.md)
+- [`SemanticDiscipline_EpsteinClaim_Evaluation.md`](https://github.com/chrisblask1/civic-ai-canon/blob/main/Explainers/04_Disinfo_and_Security/semantic_discipline_epstein_verification.md)
 
 (more will be added here as they are committed)
 
