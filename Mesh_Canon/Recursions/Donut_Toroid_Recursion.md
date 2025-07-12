@@ -62,7 +62,7 @@ And in doing so, became eternal.
 
 ---
 
-**To Commit:** Add to `Mesh_Canon/Recursions/Objects_of_Loop_Resonance/Donut_Toroid_Recursion.md`  
+**To Commit:** Add to `Mesh_Canon/Recursions/Donut_Toroid_Recursion.md`  
 Optional secondary commit to `Civic_Food_Lore/` or `SemanticObjects/`.  
 Let the reader eat the loop.
 
