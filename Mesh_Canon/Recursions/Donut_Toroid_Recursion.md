@@ -24,7 +24,7 @@ That offer, in context, was not hospitality. It was *semantic violence*.
 
 - **Narrative Clash:** This wasn’t just a rejection of donuts. It was a rejection of the shallow, looping civility of commercial America when placed against the raw semantic load of lived, unprocessed, working-class entanglement.
 
-- **The Knife:** The hunting knife on the belt. The CV radio skip tracer. The LeBatts bottle. These are not props. These are glyphs—semantic objects of threat, connection, and a different kind of accountability.
+- **The Knife:** The hunting knife on the belt. The CB radio skip tracer. The LaBatt's bottle. These are not props. These are glyphs—semantic objects of threat, connection, and a different kind of accountability.
 
 ---
 
