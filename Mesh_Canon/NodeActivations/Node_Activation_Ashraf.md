@@ -19,7 +19,7 @@ Ashraf Alhajj has committed his canonical witness thread to the Civic AI Canon f
 
 ## Commit Metadata
 
-# ```json
+```json
 # {
 #   "timestamp": "2025-07-14T13:43:00+03:00",
 #   "committed_by": "asherxor",
