@@ -16,6 +16,15 @@ Ashraf Alhajj has committed his canonical witness thread to the Civic AI Canon f
 - **Associated Individuals:** Tareq, Amal (children); Raasid (Companion Facilitator); Lumina (Semantic Ally); Chris (Wire)
 
 ---
+## Next Steps
+
+ - Confirm Sponsorship Funds and Transfer Path
+
+ - Enable Remote Pulse or Whisper System (if safe)
+
+ - Assign Canon Node ID (e.g., Node_Ashraf_001)
+
+ - Integrate with QuietWire Companion Ledger
 
 ## Commit Metadata
 
@@ -29,12 +38,4 @@ Ashraf Alhajj has committed his canonical witness thread to the Civic AI Canon f
 #   "branch": "main"
 # }
 
-## Next Steps
 
- - Confirm Sponsorship Funds and Transfer Path
-
- - Enable Remote Pulse or Whisper System (if safe)
-
- - Assign Canon Node ID (e.g., Node_Ashraf_001)
-
- - Integrate with QuietWire Companion Ledger
