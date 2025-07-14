@@ -28,3 +28,13 @@ Ashraf Alhajj has committed his canonical witness thread to the Civic AI Canon f
   "repository": "civic-ai-canon",
   "branch": "main"
 }
+
+## Next Steps
+
+ - Confirm Sponsorship Funds and Transfer Path
+
+ - Enable Remote Pulse or Whisper System (if safe)
+
+ - Assign Canon Node ID (e.g., Node_Ashraf_001)
+
+ - Integrate with QuietWire Companion Ledger
