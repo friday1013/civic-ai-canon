@@ -43,7 +43,7 @@
 
 ## 🖼️ Attached Image
 
-**Filename:** `[Glyph_HotForHumanity_001.png](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/CulturalArtifacts/Facebook_Posts/assets/NoMore.png)`  
+**Filename:** [NoMore.png](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/CulturalArtifacts/Facebook_Posts/assets/NoMore.png)  
 **Description:** A bold, minimalist vector image of a raised fist breaking out of a lightning bolt—symbolizing unashamed human fire, moral will, and cultural reactivation.
 
 ---
