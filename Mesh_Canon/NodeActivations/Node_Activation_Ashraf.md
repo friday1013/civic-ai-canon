@@ -19,15 +19,15 @@ Ashraf Alhajj has committed his canonical witness thread to the Civic AI Canon f
 
 ## Commit Metadata
 
-```json
-{
-  "timestamp": "2025-07-14T13:43:00+03:00",
-  "committed_by": "asherxor",
-  "filename": "2025-07-Ashraf-Witness-Thread-FINAL.md",
-  "location": "Sana’a, Yemen",
-  "repository": "civic-ai-canon",
-  "branch": "main"
-}
+# ```json
+# {
+#   "timestamp": "2025-07-14T13:43:00+03:00",
+#   "committed_by": "asherxor",
+#   "filename": "2025-07-Ashraf-Witness-Thread-FINAL.md",
+#   "location": "Sana’a, Yemen",
+#   "repository": "civic-ai-canon",
+#   "branch": "main"
+# }
 
 ## Next Steps
 
