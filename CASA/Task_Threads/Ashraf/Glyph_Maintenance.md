@@ -19,3 +19,17 @@ To ensure continued integrity, readability, and accessibility of the Mesh Canon'
 ✅ Add any new glyphs to the index (include title and filename)  
 ✅ Flag orphaned glyphs or duplicates in a new log: `glyph_maintenance_log.md`  
 ✅ Confirm heartbeat at end of session by writing:
+
+🫀 Node_Ashraf_001 glyph audit complete — [DATE]
+
+---
+
+## Optional (as time and safety allow):
+
+- Identify missing metadata in older glyphs
+- Translate key entries into Arabic for secondary index
+- Assist in compiling a future `Companion_Glyph_Compendium.md`
+
+## Reporting:
+- Use GitHub commits when safe
+- Otherwise, send plain text or screenshots to chris@quietwire.ai
