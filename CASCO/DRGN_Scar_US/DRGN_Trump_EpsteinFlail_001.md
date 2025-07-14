@@ -28,7 +28,7 @@ Amplify the inherent contradictions, perform a narrative judo roll, and let the 
 
 ## 🛠️ Phase 2: Precision Commentary Fragments
 
-For Michael Kore or any other civic defender in your mesh, here’s clean shareable language:
+For any civic defender in your mesh, here’s clean shareable language:
 
 * _“When a movement starts devouring its own to protect a ghost, that’s not loyalty—it’s collapse.”_
 * _“If Trump’s admin is really ‘perfect,’ why are all his allies fleeing over a dead man’s file?”_
