@@ -68,5 +68,5 @@ If bearer scans a QR or enters their glyph ID:
 
 ## 🛡️ Notes
 
-This protocol **does not mandate surveillance**. It enables **ethical presence** and enforces **semantic reciprocity**. If you choose to see, you must admit you saw.
+This protocol **does not mandate surveillance**. It enables **ethical presence** and enforces **semantic reciprocity**. If you choose to see, you must attest you saw.
 
