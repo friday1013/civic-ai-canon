@@ -38,4 +38,4 @@ Let this directory be a place where dignity meets design.
 
 ---
 
-Would you like me to commit that as `README.md` now?
+
