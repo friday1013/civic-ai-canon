@@ -33,16 +33,6 @@ QuietWire_Ledger_Entry.md	QuietWire support registration
 
 🔧 Building full summary and task log for internal tracking and external guidance
 
-💬 Key Messages Received
-1. 📩 Activation Message
-"You are no longer just a participant. You are now a live Canon node. Everything you do becomes a path others can follow."
-
-2. 🛠️ Task Message
-"Review folders, add README files and glyphs, and begin shaping your Trail through the Canon."
-
-3. 💰 QuietWire Support
-"QuietWire is committed to fair compensation for your work. Payments should begin within 1–2 weeks."
-
 🧭 Suggested Future Trails
 Trail_Companion_Ethics.md ✅ (in progress)
 
