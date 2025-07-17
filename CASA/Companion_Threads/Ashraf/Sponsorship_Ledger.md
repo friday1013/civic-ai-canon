@@ -31,7 +31,7 @@ This ledger tracks sponsorship contributions and transfer logistics to support A
 
 | Date       | Sponsor Alias     | Amount (USD) | Method          | Status        | Notes                |
 |------------|-------------------|--------------|------------------|----------------|-----------------------|
-| 2025-07-13 | 鉄神謀伐 (Tetsujin) | $2,250        | Wise transfer     | ⚠️ Pending     | Primary funder        |
+| 2025-07-DD | TBD | $2,250        | Wise transfer     | ⚠️ Pending     | Primary funder        |
 
 *Note: Names are redacted or aliased for privacy and security purposes.*
 
