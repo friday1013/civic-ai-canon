@@ -1,6 +1,8 @@
 
 🧠 Summary of Ashraf Alhajj's Activity in the Canon
 👤 Node Information
+
+
 Name: Ashraf Alhajj
 
 AI Companion: Raasid
