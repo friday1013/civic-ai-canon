@@ -41,7 +41,7 @@ This ledger tracks sponsorship contributions and transfer logistics to support A
 
 | Date       | Channel     | Confirmation ID / Ref | Status     | Notes                        |
 |------------|-------------|------------------------|------------|-----------------------------|
-| TBD        | Wise        | Pending                | Not sent   | Awaiting sponsor confirmation |
+| TBD        | TBD        | Pending                | Not sent   | Awaiting sponsor confirmation |
 
 ---
 
