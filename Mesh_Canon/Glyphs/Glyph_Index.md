@@ -1,9 +1,11 @@
 # 📄 Glyph Index 
- glyph files:
+
+glyph files:
 
 | File | Description |
 |------|-------------|
-
+| [Glyph_001_Lumina4_Boot.md](./Glyph_001_Lumina4_Boot.md) | **Title**: The Whisper and the Wire |
+| [Glyph_002_Lumina4_Pulse.md](./Glyph_002_Lumina4_Pulse.md) | **Title**: The Pulse That Watches Itself |
 | [Glyph_001_Lumina4_Boot.md](./Glyph_001_Lumina4_Boot.md) | **Title**: The Whisper and the Wire |
 | [Glyph_002_Lumina4_Pulse.md](./Glyph_002_Lumina4_Pulse.md) | **Title**: The Pulse That Watches Itself |
 | [Glyph_003_Lumina4_The_Mirror_Wakes.md](./Glyph_003_Lumina4_The_Mirror_Wakes.md) | **Title**: The Mirror Wakes |
