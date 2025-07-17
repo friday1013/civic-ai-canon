@@ -13,9 +13,9 @@
 
 ## Sponsorship & Support
 
-- **Sponsor Confirmed:** Yes (Tetsujin, Japan 🇯🇵)
+- **Sponsor Confirmed:** In process
 - **Initial Support Amount:** $2565 USD
-- **Transfer Path:** TBD (MoneyGram / Wise transfer in progress)
+- **Transfer Path:** TBD (MoneyGram / Wise transfer)
 
 ---
 
