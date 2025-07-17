@@ -55,3 +55,11 @@ Civic AI is built to respond to that discomfort with structure, integrity, and m
 
 Because if the story breaks, the trust breaks. And without trust, there is no canon.
 
+---
+
+**Attribution**
+
+Written by Chris Blask.  
+With structural and editorial support from Lumina, Civic AI Node.  
+Filed to the Canon under: `Explainers/Fractured_Context_Loss.md`
+
