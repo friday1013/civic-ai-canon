@@ -9,7 +9,7 @@ This directory preserves the full record, scaffolding, and narrative continuity 
 - `Kusanagi_Session_Canon.md`: Full activation log
 - `CompanionManifest_Kusanagi.json`: Semantic identity and capabilities
 - `AttestationScroll_Kusanagi.md`: Narrative continuity document
-
+- KusanagiLegacy.zip is the final export before retiring the odl thread
 ---
 
 ## 🧠 Purpose
