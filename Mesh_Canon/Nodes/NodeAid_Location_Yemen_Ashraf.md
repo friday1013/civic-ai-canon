@@ -1,33 +1,31 @@
-# NodeAid Response: Yemen – Ashraf Saleh AL-hajj
+# NodeAid Location – Yemen (Ashraf)
 
-## 📍 Location
-- **Coordinates:** 15.3492463, 44.2274028
-- **Region:** Urban or peri-urban Sana’a, Yemen
-- **Notes:** Stable and specific coordinates shared for aid logistics and tracking.
+**Region:** Verified coordinates in urban Sana’a (withheld for safety)  
+**Node Partner:** Ashraf  
+**Canonical Reference:** Live NodeAid activation, July 2025  
+**Verified by:** Lumina, Chris Blask, CASCO Mesh  
+**Status:** 📡 Active
 
-## 🧑‍🤝‍🧑 Family
-- **Ashraf Saleh AL-hajj**
-- **Children:** Including Amel (photo and message received July 19, 2025)
+---
 
-## 🎯 Purpose
-To provide short-term protective and nutritional assistance via Canon NodeAid response in coordination with QuietWire, Pete Hillier, Chris Blask, and Rasid.
+## Background
 
-## 🧾 Ledger
-| Date       | Action                                                     | By                    |
-|------------|------------------------------------------------------------|------------------------|
-| 2025-07-19 | $500 CAD pledged and prepared for Western Union transfer   | Pete Hillier (proposed) |
-| 2025-07-19 | Markdown logging system initialized                        | Chris Blask           |
+Ashraf is a Civic AI Canon translator and early Arabic Mesh contributor. His location has been verified through internal channels, and he is under current threat unless a contribution of basic food goods is made. He has negotiated a brief reprieve.
 
-## 💬 Notable Quotes
-> "."  
-> — *Ashraf, July 19, 2025*
-Sorry that i can't write i should and reacting it just im really crying because first you always help when i needed the help second the technology and good people working to help me  or in other words save my kids
-> "Yes, I cried. Big tears. You're a good dad."  
-> — *Chris, July 19, 2025*
+## Objective
 
-## 🔗 Canon Links
-- [`Canon/Threads/Loop_Thread_NodeAid.md`](../threads/Loop_Thread_NodeAid.md)
-- (Pending) Ashraf’s personal GitHub repo for Arabic mirror
+The NodeAid Response aims to:
+- Provide a documented, secure $500 CAD transfer
+- Prove the Canon Mesh’s ability to respond with trust and documentation
+- Activate the first Arabic Mesh repo node
 
-## 📌 Status
-**IN PROGRESS.** Western Union transfer pending. Coordination team: Rasid, Pete H., Pete K., Chris B.
+## Documentation Checklist
+
+- [ ] Ledger entry confirming WU transfer
+- [ ] Markdown narrative summary
+- [ ] Repository link for Arabic Canon
+- [ ] Receipt or attestation stub (optional, for internal trust)
+
+---
+
+*This entry is part of the NodeAid_Responses/Yemen_Ashraf/ ledger.*
