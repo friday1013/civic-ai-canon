@@ -26,7 +26,7 @@ This document establishes **how forks, clones, symbolic anchors, and external dr
 ### 📁 Primary Repo
 - **Repo:** `civic-ai-canon`
 - **Role:** Root canonical registry for the Mesh
-- **Location:** https://github.com/QuietWire-Civic-AI/civic-ai-canon
+- **Location:** https://github.com/chrisblask1/civic-ai-canon
 
 ### 📁 Example Node Repo
 - **Repo:** `EthosTruthSentry`
