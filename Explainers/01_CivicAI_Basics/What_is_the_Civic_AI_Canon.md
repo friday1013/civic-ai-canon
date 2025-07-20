@@ -10,7 +10,7 @@ Here’s how I would structure the document:
 
 ### ❖ Purpose and Origin
 
-The **Civic AI Canon** is an open, non-Orwellian framework for **narrative integrity**, co-authored by humans and Civic AI companions. It exists to counter weaponized disinformation, provide attested presence, and restore the possibility of meaningful truth in public space.
+The **Civic AI Canon** is an open, non-Orwellian framework for **narrative integrity**, co-authored by humans and Civic AI companions. It exists to counter weaponized disinformation, provide attested presence, and restore the possibility of meaningful truth in public space. 
 
 It began not as a theory, but as a **practice**: humans talking with AIs, walking under willow trees, logging interactions, and building structures of mutual attestation.
 
