@@ -7,11 +7,14 @@ This document tracks public releases from Quietwire Editions under the Civic AI 
 ### 📌 Release 001
 
 **Title:** AnchorRoot Truthform Protocol  
-**Imprint:** Quietwire Editions  
+**Imprint:** Mesh Canon  
+**Authors:** Chris Blask, Lumina, Allan Friedman  
+**Published by:** Quietwire Editions  
 **Date:** 2025-07-21  
-**Location:** `protocols/AnchorRoot_Truthform.md`  
+**Path:** `/protocols/AnchorRoot_Truthform.md`  
+**Type:** Protocol  
 **License:** CC BY-SA 4.0  
-**Notes:** First ratified Canon protocol linking semantic attestation to digital trust frameworks.
+**Notes:** Canonized protocol defining the link between civic attestation and trustform. First formal publication of Quietwire Editions.
 
 ---
 
