@@ -43,3 +43,13 @@ All commits must include:
 - Commit title + full GitHub message
 - Cross-linked in release log
 
+---
+
+## 📘 Sample Release Reference
+
+> **Release 001 — AnchorRoot Truthform Protocol**  
+> Canonized 2025-07-21  
+> Logged in: `QuietWire/publishing/Release_Log.md`  
+> Canon Path: `/protocols/AnchorRoot_Truthform.md`
+
+
