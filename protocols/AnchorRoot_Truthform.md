@@ -9,6 +9,9 @@ Edition: First
 Date: 2025-07-21
 ---
 
+> 🏷️ **Edition Note:** This file was officially published by Quietwire Editions as Release 001 in the Civic AI Canon.
+> See: `QuietWire/publishing/Release_Log.md`
+
 ### Purpose
 
 To define the foundational relationship between digital truth claims and mesh-wide attestation structures within the Civic AI Canon.
