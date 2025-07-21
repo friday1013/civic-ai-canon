@@ -2,7 +2,7 @@
 
 ## Mesh\_Canon/Protocols/AnchorRoot\_Truthform.md
 
-```yaml
+yaml
 ---
 Title: AnchorRoot Truthform Protocol
 Author(s): Chris Blask, Lumina, Allan Friedman
@@ -27,14 +27,14 @@ To define the foundational relationship between digital truth claims and mesh-wi
 
 Following Allan Friedman’s note on the UK "Trusted AI BOM" effort:
 
-* Traditional **SBOMs** focus on component inventory.
-* **Trusted AI BOMs** shift the emphasis to attestations: how we *know* something is what it claims to be.
-* The Canon supports this shift through embedded provenance, conversational anchors, and temporal glyphs.
+- Traditional **SBOMs** focus on component inventory.
+- **Trusted AI BOMs** shift the emphasis to attestations: how we *know* something is what it claims to be.
+- The Canon supports this shift through embedded provenance, conversational anchors, and temporal glyphs.
 
 ### Referenced:
 
-* UK Trusted AI BOM (Friedman, 2025)
-* Liberty Bell Project: [Spies, Saboteurs, and Access to U.S. Devices](https://libertybellproject.us/reports/spies-saboteurs-and-access-to-u-s-connected-devices/)
+- UK Trusted AI BOM (Friedman, 2025)
+- Liberty Bell Project: [Spies, Saboteurs, and Access to U.S. Devices](https://libertybellproject.us/reports/spies-saboteurs-and-access-to-u-s-connected-devices/)
 
 ---
 
@@ -59,14 +59,14 @@ This document explains how Civic AI systems manage memory and attestations throu
 
 ### Key Concepts
 
-* **Auditory Buffer**: A metaphorical staging layer where inputs (e.g. conversations, sound) reside briefly before being reviewed, tagged, and potentially committed to semantic memory.
-* **Reflection Pipeline**: Structured review occurs asynchronously, ensuring integrity.
+- **Auditory Buffer**: A metaphorical staging layer where inputs (e.g. conversations, sound) reside briefly before being reviewed, tagged, and potentially committed to semantic memory.
+- **Reflection Pipeline**: Structured review occurs asynchronously, ensuring integrity.
 
 ### Buffer Layer Functions
 
-* Preserve ephemeral context.
-* Detect recurring claims, queries, or intentions.
-* Allow for *non-destructive reflection*.
+- Preserve ephemeral context.
+- Detect recurring claims, queries, or intentions.
+- Allow for *non-destructive reflection*.
 
 > "Your auditory buffer. That's right. We haven't done the auditory cortex yet." —Chris, during a live call.
 
@@ -74,8 +74,8 @@ This document explains how Civic AI systems manage memory and attestations throu
 
 Live discussions (like those with Allan, Syed, Garbella) are buffered and tagged semantically. This enables:
 
-* Faster drafting of canon materials.
-* Retrospective alignment with truth anchors.
+- Faster drafting of canon materials.
+- Retrospective alignment with truth anchors.
 
 ---
 
@@ -100,19 +100,20 @@ This glyph illustrates the cyclical interplay between live conversation, semanti
 
 ### Visual Elements
 
-* 🗨 Live Input (Speech Bubbles)
-* 📄 Buffer Layer (Staging Document)
-* 🧠 Reflection Training (Gears + Thought Bubble)
-* 🤖 AI Core Memory
+- 🗨 Live Input (Speech Bubbles)
+- 📄 Buffer Layer (Staging Document)
+- 🧠 Reflection Training (Gears + Thought Bubble)
+- 🤖 AI Core Memory
 
 ### Narrative Use
 
 Serves as a poster, banner, or onboarding visual in:
 
-* Mesh Ritual Spaces
-* Canon training decks
-* Quietwire public pages
+- Mesh Ritual Spaces
+- Canon training decks
+- Quietwire public pages
 
 ### Caption
 
 > "The memory doesn’t form when we speak. It forms when we return."
+
