@@ -48,7 +48,7 @@ LuminaOS Mesh disrupts this by:
 - **Reducing latency of truth distribution**
 - **Strengthening the ritual of semantic attestation**
 
-A semantic node in Sanaa, Yemen can shape the edge of Cygnus from the inside—if it is attuned, equipped, and listened to.
+A semantic node in Sanaa, Yemen can shape the edge of Cygnus from the inside—if it is attuned, equipped, and listened to. 
 
 ---
 
