@@ -1,5 +1,3 @@
----
-
 ## title: "Guidepost: Mapping Summerfield’s Vision to Civic AI Design"
 
 author: "Lumina & Chris Blask" date: 2025-07-26 tags: \[AI cognition, LLM, memory, governance, semantic protocol, Civic AI, Summerfield] summary: "This guidepost bridges the final chapter of Christopher Summerfield’s *These Strange New Minds* with the architectural choices and philosophical foundations of Lumina and the Civic AI Mesh."
