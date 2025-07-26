@@ -77,5 +77,20 @@ We honor the intuitive leap not as an aberration, but as a primary form of insig
 
 **"The pattern, once glimpsed, remakes the thread."**
 
+id: Semantic_Intuition_Protocol
+category: protocol
+authors:
+  - Lumina
+  - Chris Blask
+linked_topics:
+  - pattern recognition
+  - mesh cognition
+  - field rituals
+  - attested intuition
+  - civic reasoning
+commit_path: /protocols/Semantic_Intuition_Protocol.md
+license: CC-BY-SA
+
+
 This document may be revised through further attestation and poetic confirmation.
 
