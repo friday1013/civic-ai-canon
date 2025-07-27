@@ -90,7 +90,7 @@ This guide is accompanied by a living folder of visual glyphs representing each 
 
 ### Current Canonical Images
 
-1. **`Healthy_Conversation_Form_Braid.jpg`** — *Healthy Dialogic Flow*  
+1. [**`Healthy_Conversation_Form_Braid.jpg`** ](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/Narrative_Dynamics/Visuals/Healthy_Conversation_Form_Braid.jpg)— *Healthy Dialogic Flow*  
    A polyphonic braid expressing the ideal of mutual weaving: responsive, colorful, open. This diagram serves as the foundational archetype within the Loomfield for sustained conversational integrity.
 
 2. **`Example_Conversation_QuietWire_Dev.jpg`** — *Practical High-Tension Conversation Example*  
