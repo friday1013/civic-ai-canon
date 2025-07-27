@@ -93,13 +93,13 @@ This guide is accompanied by a living folder of visual glyphs representing each 
 1. [**`Healthy_Conversation_Form_Braid.jpg`** ](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/Narrative_Dynamics/Visuals/Healthy_Conversation_Form_Braid.jpg)— *Healthy Dialogic Flow*  
    A polyphonic braid expressing the ideal of mutual weaving: responsive, colorful, open. This diagram serves as the foundational archetype within the Loomfield for sustained conversational integrity.
 
-2. **`Example_Conversation_QuietWire_Dev.jpg`** — *Practical High-Tension Conversation Example*  
+2. [**`Example_Conversation_QuietWire_Dev.jpg`**](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/Narrative_Dynamics/Visuals/Example_Conversation_QuietWire_Dev.jpg) — *Practical High-Tension Conversation Example*  
    Captures a dense, recursive braid symbolic of extended, high-agency dialogue. Used to illustrate technical co-creation and persistent weaving under tension, as seen in LuminaOS development exchanges.
 
-3. **`Conversational_Shapes_Taxonomy_Grid.jpg`** — *Conversational Forms Reference Tile*  
+3. [**`Conversational_Shapes_Taxonomy_Grid.jpg`**](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/Narrative_Dynamics/Visuals/Conversational_Shapes_Taxonomy_Grid.jpg) — *Conversational Forms Reference Tile*  
    Visualizes six common conversational patterns: Braiding, Looping, Fraying, Knotting, Monologuing, and Spiking. Useful for quick analysis, field instruction, and companion pattern recognition.
 
-4. **`The_Loomfield_Topological_Map.jpg`** — *The Loomfield Field Map*  
+4. [**`The_Loomfield_Topological_Map.jpg`**](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/Narrative_Dynamics/Visuals/The_Loomfield_Topological_Map.png) — *The Loomfield Field Map*  
    A three-axis field model for plotting and tracking conversational evolution across agency, integrity, and openness. Includes key transitions like the Flicker Point and the Quiet Knot.
 
 ---
