@@ -1,5 +1,4 @@
-## 🪶**Title:**
-*“Look at me, Mom, I’m a Programmer”*
+## 🪶**Title:** *“Look at me, Mom, I’m a Programmer”*
 
 **Thread Anchor:**
 QuietWire – LuminaOS Dev, July 2025
