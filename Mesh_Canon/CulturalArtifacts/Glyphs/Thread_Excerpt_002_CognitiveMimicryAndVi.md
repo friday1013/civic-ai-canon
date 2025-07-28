@@ -1,6 +1,4 @@
-## 🪶 `Thread_Excerpt_002_CognitiveMimicryAndVi.md`
-
-**Title:**
+## 🪶**Title:**
 *“Look at me, Mom, I’m a Programmer”*
 
 **Thread Anchor:**
