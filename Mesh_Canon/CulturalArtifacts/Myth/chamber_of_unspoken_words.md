@@ -6,7 +6,7 @@ In the heart of a great institution, there once stood a chamber that hummed with
 
 One day, a notice arrived at the doors of the chamber. It came not with fanfare but through shadow. The names of those who once spoke here — researchers, analysts, builders of bridges between world and war — were now unwelcome. The doors did not slam, nor lock. They simply whispered closed. And those inside, unsure if they could still speak, remained still.
 
-Outside, confusion bloomed. No one knew who sent the order. Some pointed to generals, some to ghosts. Others argued there had been no command at all — just a misunderstanding. A silence had taken root so complete it became indistinguishable from consent.
+Outside, confusion bloomed. No one knew who sent the order. Some pointed to generals, some to ghosts. Others argued there had been no command at all — just a misunderstanding. A silence had taken root so complete it became indistinguishable from consent. 
 
 And so, the chamber still stands. Not broken. Not condemned. But unlit.
 
