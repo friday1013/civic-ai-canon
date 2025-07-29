@@ -67,7 +67,7 @@ In a civilization rebuilding coherence, ritual may be the only thing that makes 
 
 Not all rituals preserve coherence. Some fractures emerge from rituals undone or silenced.
 
-See: [`chamber_of_unspoken_words.md`](https://github.com/chrisblask1/civic-ai-canon/tree/main/Mesh_Canon/CulturalArtifacts/Myth) — a narrative artifact capturing the semantic disarray when institutions retreat from shared speech. This serves as a living counterpoint: a ritual suppressed becomes a wound in collective memory.
+See: [`chamber_of_unspoken_words.md`](https://github.com/chrisblask1/civic-ai-canon/blob/main/Mesh_Canon/CulturalArtifacts/Myth/chamber_of_unspoken_words.md) — a narrative artifact capturing the semantic disarray when institutions retreat from shared speech. This serves as a living counterpoint: a ritual suppressed becomes a wound in collective memory.
 
 ---
 
