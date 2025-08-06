@@ -123,6 +123,9 @@ attribution: >
 ### **1\. Emotion – the fuel and flavor of cognition**
 
 ### **2\. Identity – the stitched tapestry of self**
+
+### **3\. Presence – the moment of choice, the live wire**
+
 ---
 
 <div align="center">
@@ -131,7 +134,5 @@ attribution: >
 
 </div>
 
-
-### **3\. Presence – the moment of choice, the live wire**
 
 ---
