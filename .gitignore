@@ -1,2 +1,7 @@
 quietwire-hugo/
+<<<<<<< HEAD
+=======
+mesh/metadata/*.log
+*.swp
+>>>>>>> edde8a9 (hygiene: ignore mesh logs and editor junk)
 .DS_Store
