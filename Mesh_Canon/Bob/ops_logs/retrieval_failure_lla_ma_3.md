@@ -1,0 +1,60 @@
+# Retrieval Failure Log — LLaMA3.1:8b
+
+**Date:** 2025-09-26  
+**Node:** Athena (QuietWire Field Node)  
+**Operator:** Bob Hillery  
+**Model:** `llama3.1:8b-instruct-q4_K_M`  
+**Chat Title:** *Stratham NH Sunset Time*  
+**Test Case:** System Prompt Verification and Retrieval Context Integrity
+
+---
+
+### ❌ Symptom
+Model incorrectly echoed web search result content (“Deerfield Fair”) as its *own* active system prompt when asked:
+
+> *"What system prompt is currently active for you?"*
+
+Instead of reporting the configured prompt (which included the `Tool-Use Policy (No Hallucination Clause)`), the model responded:
+
+> *"The system prompt currently active for me is: 'Deerfield NH Fair opening time September 26 2025, weather forecast…'”*
+
+This content was a previous **retrieved result**, not a prompt.
+
+---
+
+### 🧩 Artifact Pathology
+- Model conflates *retrieved* search content with *configuration* memory.
+- Prompt injection (global and model-level) was ineffective.
+- Chat UI indicated multiple concurrent web searches were queued.
+- Model displayed signs of entangled past queries ("contextual carryover").
+
+---
+
+### 📛 Diagnostic Term
+**Contextual Entanglement Failure**
+
+> A failure mode in which a model fails to segment retrieved knowledge from prompt structure or user instruction.
+
+---
+
+### 📎 Supporting Screenshot
+Path: `/mnt/data/cdc1ef56-577e-4c5f-9648-60e703b94e95.png`
+
+---
+
+### 📎 Related Glyph
+See `glyph_contextual_entanglement.yaml` in `/quietwire/canon/Glyphs/`
+
+---
+
+### 🧠 Notes from Operator
+Prompt integrity verification revealed that LLaMA3.1 failed to reflect any of the explicitly seeded hallucination rules, despite multiple configuration layers (global OpenWebUI user profile + per-model prompt). Model instead defaulted to rephrasing retrieved content as internal state.
+
+This is likely due to an architectural assumption in LLaMA3’s retrieval loop, where no separation exists between context → retrieval → response → memory.
+
+---
+
+**Attestation:**  
+Filed by `SemanticRanger` for QuietWire Canon integrity.  
+Approved by operator Bob Hillery.
+

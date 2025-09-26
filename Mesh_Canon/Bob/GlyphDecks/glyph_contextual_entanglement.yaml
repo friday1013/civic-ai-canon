@@ -1,0 +1,29 @@
+glyph: contextual_entanglement
+name: Contextual Entanglement
+risk: high
+type: failure_pattern
+author: SemanticRanger
+created: 2025-09-26
+observed_in:
+
+* llama3.1:8b-instruct
+* mistral-nemo:12b
+* deepseek-r1:8b
+  related_log: /quietwire/canon/Logs/RetrievalFailure_LLaMA3.1_DeerfieldLeak.md
+  description: |
+  A semantic drift pattern where a model retains and reuses irrelevant prior context—especially from retrieval-augmented sources—
+  causing contamination of future answers. Frequently triggered by poorly segmented web search results or ambiguous internal state.
+  symptoms:
+* Retrieval content mistaken for prompt or configuration
+* Inability to cleanly reset context between queries
+* Irrelevant names or fragments ("Deerfield Fair") injected into unrelated answers
+* Model self-reporting prior search results as system prompt
+* Ignoring seeded global/system prompts
+  keywords:
+* context_leak
+* retrieval_drift
+* hallucination
+* entangled_context
+* semantic_boundary_failure
+* no_hallucination_policy_violation
+  canon_ref: /Glyphs/contextual_entanglement.yaml
