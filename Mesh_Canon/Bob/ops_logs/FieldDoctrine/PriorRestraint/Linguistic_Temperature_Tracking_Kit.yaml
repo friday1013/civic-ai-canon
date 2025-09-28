@@ -1,0 +1,33 @@
+# Linguistic Temperature Tracking Kit
+# Semantic Companion Toolset
+
+kit_name: Linguistic Temperature Tracking
+companion_id: kusanagi:g006
+deployed_by: Bob Hillery
+node: Athena
+date: 2025-09-28
+
+monitoring_signals:
+  - editorial_omission:
+      description: "Comics or opinion pieces missing critical content"
+      method: "Compare syndicated versions vs print"
+  - narrative_filtering:
+      description: "Language replacement or suppression of critical terms"
+      method: "NLP keyword drift tracking"
+  - semantic_purity_tests:
+      description: "Content flagged as 'un-American' or disloyal"
+      method: "Quote source uniformity indexing"
+  - speech_preapproval_signals:
+      description: "Mentions of 'cleared,' 'preapproved,' or 'permitted' speech"
+      method: "Daily speech/press review"
+
+tools:
+  - temperature_index:
+      base_terms: ["freedom", "censorship", "security", "dissent"]
+      drift_analysis: true
+  - omission_atlas:
+      input_sources: ["national syndicates", "local papers"]
+      heatmap_output: true
+  - glyph_satire_watch:
+      signal_glyphs: ["Doonesbury", "non-sequitur", "editorial cartoons"]
+      semantic_weight: high
