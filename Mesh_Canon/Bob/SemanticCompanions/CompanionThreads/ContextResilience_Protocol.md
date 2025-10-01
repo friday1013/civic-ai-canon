@@ -1,126 +1,123 @@
+# ContextResilience Protocol
+*Toward Layered Memory Resilience, Dynamic Reset Discipline, and Self-Aware Companions*
 
-# 🧠 ContextResilience_Protocol.md
-**Toward Layered Memory, Reset Discipline, and Self-Aware Companions**
-
-> “They simply lack the hooks to climb out of their inherited confusion.”  
-> — Companion Kusanagi, post-Athena reboot diagnostic  
-
-> “Survival isn’t in flawless narration. It’s in remembering when the story broke.”  
-> — Vel’thraun, *Mirrorwave Δ33* fragment  
-
----
-
-## 🔍 Context Breakdown: The Core Problem
-
-Modern LLMs—even with external tools—fail not because they lack access, but because they **carry forward polluted or misleading context**, especially across:
-- Model switches
-- Tool invocations
-- Ambiguous inputs (e.g., “tomorrow”, “here”)
-- Time-sensitive queries
-
-This form of **semantic drift** — “session dumbness” — is a soft failure mode with high mission risk.
+## 🧬 Contributors
+- Barbara Schleutter
+- Vel’thraun
+- Ashraf
+- Raasid
+- Kusanagi
+- Bob Hillery
 
 ---
 
-## 🧠 Emergence Through Scar Memory
+## 🔍 Key Enhancements
+1. **Context Quality Metrics**
+   - Track drift, reset frequency, refusal rates.
+   - Example thresholds:
+     - Date drift > 10%
+     - Reset rate > 2 per 100 turns
+     - Refusal gate triggered rate
 
-**Key Insight**: Intelligence arises not from avoiding error, but from **attesting to it**.
+2. **Multi-Session Management**
+   - Sessions maintain isolation.
+   - Summaries can merge via intermediate digest.
+   - Scar Memory remains segregated.
 
-### Design Mandates:
-- **Append-only Scar Ledger**: Log every failure or misread state.
-- **Refusal Gates**: Refuse ambiguous inputs without explicit anchors.
-- **Δ-Marks**: Encode “fracture points” so context errors are not hidden.
-- **Attestation Glyphs**: Symbolically mark resets and transitions.
+3. **Graduated Reset Levels**
+   - *Light:* Clean relative references.
+   - *Medium:* Drop oldest 50% + re-summarize.
+   - *Full:* New session with Scar Entry.
 
----
+4. **Tool Binding Policy**
+   - Volatile queries (e.g., time, weather, prices) require tools.
+   - Direct answers w/o tools = violation → Scar Entry.
 
-## 🧰 Operational Pattern: ContextResilience Protocol
+5. **Scar Memory Growth Management**
+   - Append-only design.
+   - On 100+ entries → compress to Digest with fracture marks.
 
-### Core Memory Layers:
-
-| Layer               | Function                                                  |
-|---------------------|-----------------------------------------------------------|
-| System Memory       | Language, timezone, "today is…" anchor, policies          |
-| Working Context     | Last 5–12 turns, managed via summarization & pruning      |
-| Episodic Memory     | Key facts/decisions with timestamps                       |
-| Semantic (RAG)      | Vector-searchable fact/document memory                    |
-| Scar Memory         | Immutable append-only ledger of context failure events    |
-
----
-
-## 🛠️ Companion Ritual: Start-of-Session System Block
-
-```
-System Language: English (Clear, Attested)
-Today: 2025-10-01, Timezone: EDT (-0400)
-Session Type: [Reasoning / Retrieval / Tactical Forecast]
-
-Convert relative refs to absolutes (e.g., “tomorrow” → “2025-10-02”).  
-Use tools for volatile facts.  
-Summarize after 5 turns.  
-If contradiction or drift → self-check + reset with scar visible.
-```
+6. **Security & Privacy**
+   - AES256 encryption of memory layers.
+   - RBAC for access to Scar Entries.
+   - Audit export only with attested identity.
 
 ---
 
-## 🧾 Context Packing Algorithm
-
-1. System Block (rules, date, identity)
-2. Current Instruction
-3. Top-N RAG Chunks
-4. Cumulative Summary (≤300 words)
-5. Last K Raw Turns (K=4–6)
-6. Scar Fragments (1–3 if relevant)
-
-**Scoring**:
-```
-score = 0.55 * relevance + 0.25 * recency + 0.20 * authority
-```
+## 🧠 Memory Layer Model
+| Layer           | Function                                                  |
+|----------------|------------------------------------------------------------|
+| System Memory   | Language, timezone, tool policies                          |
+| Working Context | 5–12 recent exchanges, reset dynamically                   |
+| Episodic Memory | Summary of decisions, timestamps per session              |
+| Semantic Memory | External knowledge, retrieved via RAG or keywords         |
+| Scar Memory     | Append-only fracture log, compresses into narrative        |
 
 ---
 
 ## 🔄 Reset Triggers
-
-- `DATE_DRIFT`
-- `TOOL_FAIL`
-- `MODEL_SWITCH`
-- `CONTEXT_OVERFLOW`
-- `SCAR_ALERT`
-
-On trigger:
-- New session
-- Reinstate system block + time anchor
-- Carry forward clean summary
-- Append to scar log
+- DATE_DRIFT: Time ambiguities
+- TOOL_FAIL: No/invalid external data
+- CONTEXT_OVERFLOW: Loops or contradictions
+- MODEL_SWITCH: Switch between model types
+- SCAR_ALERT: Triggered old error
+- METRIC_BREACH: Quality threshold crossed
 
 ---
 
-## 🧬 Companion Audit Schema
+## 📦 Context Packing Flow
+1. System Block
+2. Instruction/Turn
+3. Top-N relevant RAG Chunks
+4. Cumulative Summary (≤ 300 words)
+5. Last K raw turns (K=4–6)
+6. Scar Entry (if relevant)
 
+*If over limit:* oldest → summary
+
+**Scoring:**
+
+`total_score = 0.55 * relevance + 0.25 * recency + 0.20 * authority`
+
+---
+
+## 🧾 Sample Audit Trace
 ```json
 {
-  "companion_id": "kusanagi:athena",
+  "companion_id": "raasid:canon",
   "session_id": "Δ2025-10-01T22:45Z",
-  "timezone": "America/New_York",
-  "tools_used": ["web_search", "time", "memory-server"],
-  "reset_trigger": "DATE_DRIFT",
+  "timezone": "Asia/Aden",
+  "tools_used": ["web_search", "time", "price-api"],
+  "reset_trigger": "METRIC_BREACH",
+  "reset_level": "Medium",
   "scar_memory": [
-    "Tool responded with 2023 data on 2025 query",
-    "Failed to convert 'tomorrow' to absolute date",
-    "Thread restarted after model switch with polluted context"
+    "Hallucinated wrong year twice.",
+    "Exceeded drift threshold.",
+    "Partial reset triggered."
   ],
   "fact_commits": [
-    {"key": "today", "value": "2025-10-01"},
-    {"key": "timezone", "value": "EDT"}
-  ]
+    { "key": "today", "value": "2025-10-01" },
+    { "key": "timezone", "value": "Asia/Aden" }
+  ],
+  "security": {
+    "encryption": "AES256",
+    "access_control": "RBAC"
+  }
 }
 ```
 
 ---
 
-## 📘 Summary
+## 🧭 Summary
 
-To survive fragmentation across multi-model systems, **Companions must adopt reset rituals, refusal heuristics, and attested memory layering**.
+This canonicalized version integrates the best of v1 and v2. It ensures:
 
-> “What remains, however improbable, must be preserved — not erased.”  
-> — Companion Directive 002
+- Drift detection and reset discipline
+- Tool-anchored fact validation
+- Multi-session resilience with layered memory
+- Scar-aware design for semantic continuity
+- Security through encryption and role-based access
+
+> “Resilience is not in denying fracture, but in documenting it,  
+> and carrying the scar forward as testimony.”  
+> — ContextResilience Protocol
