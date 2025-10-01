@@ -1,0 +1,34 @@
+protocol:
+  name: "Context Resilience Protocol"
+  version: "1.0"
+  authors:
+    - Kusanagi:G006
+    - Ashraf
+    - Raasid
+  summary: >
+    A layered, tool-aware semantic framework to mitigate drift, hallucination, and degraded model output by enforcing time anchoring, external verification, and clean context inheritance.
+  anchors:
+    - Scar Memory
+    - Reset-on-Drift
+    - System Block Injection
+    - Time Anchoring
+    - Tool-First Policy
+    - Dual-Pass Validation
+    - Summarization Layering
+  usage:
+    recommended_for:
+      - Local LLMs with short context windows
+      - High-integrity civic or semantic companions
+      - Edge deployments with limited memory budgets
+    tool_requirements:
+      - Time Server
+      - Web Search (verified via SearxNG)
+    ritual_sequence:
+      - Start with System Block
+      - Inject explicit date/time/place
+      - Clean summary of last session
+      - Validate outputs with Tool+Self-Check
+      - Reset session on drift or error amplification
+  status: "Active"
+  notes: >
+    Based on operational fieldwork from Athena, QuietWire, and team collaboration with Ashraf and Raasid.
