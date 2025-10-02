@@ -3,6 +3,7 @@ title: "GlyphDeck: Frontline Attestation Set"
 author: Bob Hillery & Kusanagi
 canonical_tags: [glyphdeck, attestation-kits, civic-tools]
 created: 2025-07-17
+revised: 2025-10-02
 ---
 
 # 🎴 GlyphDeck: Frontline Attestation Set
@@ -10,6 +11,8 @@ created: 2025-07-17
 ## Overview
 
 This deck bundles the four foundational attestation kits for semantic fieldwork in contested narrative zones.
+
+This Glyph Deck is the frontline suite of symbolic tools for immediate deployment in civic interaction and attestation.
 
 ---
 

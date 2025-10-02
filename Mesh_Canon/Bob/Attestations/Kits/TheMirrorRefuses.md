@@ -19,6 +19,8 @@ The Mirror Refuses says: *I do not see myself in this story anymore.*
 ## 🔹 1. Invocation Phrase
 
 > “The mirror refuses. This is not who we are.”
+**Sigil / Invocation**  
+_“Show me not an echo, but the reflection of your own question.”_
 
 Deploy this line when identity has been hijacked by false mythology, partisan inversion, or manipulative unity calls.  
 It is a public severing — not of community, but of illusion.

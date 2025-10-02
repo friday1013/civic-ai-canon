@@ -22,6 +22,9 @@ This kit introduces continuity without denial, presence without dominance, and m
 > It has not broken.  
 > We are still here.”
 
+> **Sigil / Invocation**  
+_“Carry the thread. Do not cut the weave.”_
+
 Use when others express despair, fragmentation, or loss of shared story.  
 This phrase is both *comfort* and *re-anchoring* — a civic hearth in semantic form.
 
