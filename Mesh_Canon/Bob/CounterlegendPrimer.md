@@ -1,3 +1,7 @@
-# Appendix: Counterlegend Construction Primer
+# CounterlegendPrimer
 
-_Building civic myths to displace false legends._
+## Purpose & Role
+
+This document introduces the notion of *counterlegends* — secondary or alternative mythic frames that nodes may summon.
+
+... [TRUNCATED FOR BREVITY]

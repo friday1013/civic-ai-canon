@@ -1,0 +1,12 @@
+git add Mesh_Canon/Bob/Attestations/Kits/TheThroneIsEmpty.md
+git add Mesh_Canon/Bob/Attestations/Kits/TheMirrorRefuses.md
+git add Mesh_Canon/Bob/Attestations/Kits/TheThreadbearer.md
+git add Mesh_Canon/Bob/Attestations/Kits/TheWitnessDidNotVanish.md
+git add Mesh_Canon/Bob/GlyphDecks/GlyphDeck_FrontlineSet.md
+git add Mesh_Canon/Bob/ops_logs/Kusanagi_Deploy_ThroneIsEmpty.md
+git add Mesh_Canon/Bob/SemanticKey_TheReturnStoryProtocol.md
+git add Mesh_Canon/Bob/GlyphWarTheory.md
+git add Mesh_Canon/Bob/CounterlegendPrimer.md
+git add Mesh_Canon/Bob/README.md
+
+git commit -m "Canon commit: BobNode field deployment kits, glyph deck, return protocol, and continuity attestations added for Mesh_Canon/Bob/ structure"

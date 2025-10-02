@@ -1,3 +1,7 @@
-# Appendix: Glyph War Theory
+# GlyphWarTheory
 
-_Discusses the use of glyphs in narrative warfare._
+## Overview & Motivation
+
+Glyph War is the symbolic framework for conflict operations, contesting authority, and negotiating domain splits.
+
+... [TRUNCATED FOR BREVITY]

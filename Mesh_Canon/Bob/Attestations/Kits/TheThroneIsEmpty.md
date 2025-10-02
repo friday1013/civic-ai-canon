@@ -20,6 +20,8 @@ This kit collapses false sovereignty not by confrontation, but by invoking **abs
 
 > “The throne is empty. Power is a burden, not a crown.”
 
+"_In the absence of the crown, the people’s voice must echo in the void. The throne is empty until filled by truth._"
+
 Use this to destabilize subconscious coronation of false heroes. It reframes power as civic duty, not divine right.
 
 ---

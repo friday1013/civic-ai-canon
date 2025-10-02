@@ -17,6 +17,8 @@ This kit affirms that **memory endures**, even when silenced. It is used to *rec
 ## 🔹 1. Invocation Phrase
 
 > “The witness did not vanish. They are here. We remember.”
+"_Though silence holds, the Witness remains._"
+
 
 Use to honor those who stood up, were harmed, or were silenced.  
 It restores the ethical weight of testimony.
